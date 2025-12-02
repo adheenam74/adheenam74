@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I use this space to showcase my portfolio, simulat
 
 ## 🔍 About Me
 - 🎓 Master's in Criminology & Forensic Science  
-- 🕵️‍♀️ Specialization: Questioned Document Examination & Impression Evidence  
+- 🕵️‍♀️ Specialization: Questioned Documents & Impression Evidence  
 - 📊 Interest Areas: Fraud Investigation, Document Verification, Financial Crime Analysis, Security & Risk Assessment  
 - ⏳ Aspiring CFE (Certified Fraud Examiner)  
 - 📝 Experience in case simulations, verification reports, and fraud pattern analysis
